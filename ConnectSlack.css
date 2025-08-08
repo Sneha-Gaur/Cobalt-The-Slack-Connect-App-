@@ -1,0 +1,19 @@
+.connect-container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.connect-button {
+  padding: 12px 24px;
+  font-size: 18px;
+  background-color: #4a154b;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.connect-button:hover {
+  background-color: #350d36;
+}
