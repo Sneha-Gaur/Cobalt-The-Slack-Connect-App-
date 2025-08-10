@@ -1,7 +1,4 @@
 
-LIVE ON
-https://slackconnectsagar.netlify.app/
-
 Important: Backend free hosting par hai, isliye cold start ho sakta hai. Pehli baar kholte waqt 30-40 seconds intezar karein backend ke ready hone ke liye.
 
 Slack Connect
