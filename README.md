@@ -1,4 +1,4 @@
-
+<img width="1894" height="904" alt="send and schedule message" src="https://github.com/user-attachments/assets/b239e3be-46fc-461f-8bd0-7ef9bd529d78" />
 Important: Backend free hosting par hai, isliye cold start ho sakta hai. Pehli baar kholte waqt 30-40 seconds intezar karein backend ke ready hone ke liye.
 
 Slack Connect
@@ -109,5 +109,6 @@ Immediate Messaging: Backend Slack API chat.postMessage call karta hai
 Scheduling Engine: Messages MongoDB mein saved, node-cron scheduler specified time par message send karta hai
 
 Message Management: APIs to list/delete scheduled messages for frontend display and cancellation
+
 
 
