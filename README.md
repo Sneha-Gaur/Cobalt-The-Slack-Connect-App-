@@ -98,6 +98,8 @@ Scheduling Engine: Scheduled messages are persisted in MongoDB. A scheduler (usi
 Message Management: Endpoints to list and delete scheduled entries allow the frontend to display and cancel pending messages.
 
 Photos--
+<img width="1048" height="612" alt="Screenshot 2025-08-10 235335" src="https://github.com/user-attachments/assets/3dc4ec2c-1dfb-4b0b-b92d-1afaf6f8f8ac" />
+
 Send and Schedule Message Page
 This page allows users to send an immediate message or schedule a message for a future date and time.
 
