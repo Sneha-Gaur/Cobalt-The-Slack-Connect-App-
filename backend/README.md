@@ -1,4 +1,3 @@
-LIVE ON - https://slackconnectsagar.netlify.app/
 
 **Important:** The backend runs on a free hosting plan and may be in a “cold start” state.
                When you open the deployed link, allow 30–40 seconds for the backend to wake up before interacting with the application.
